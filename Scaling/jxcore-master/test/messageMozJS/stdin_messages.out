@@ -1,0 +1,31 @@
+[stdin]
+[stdin]
+42
+42
+undefined: hello ([stdin] *:*)
+    at  ([stdin]:*:*)
+    at [stdin]-wrapper:*:*
+    at Module.prototype._compile (module.js:*:*)
+    at evalScript (node.js:*:*)
+    at startup/< (node.js:*:*)
+    at emit (events.js:*:*)
+    at endReadable/< (_stream_readable.js:*:*)
+    at _tickCallback (node.js:*:*)
+  
+undefined: hello ([stdin] *:*)
+    at  ([stdin]:*:*)
+    at [stdin]-wrapper:*:*
+    at Module.prototype._compile (module.js:*:*)
+    at evalScript (node.js:*:*)
+    at startup/< (node.js:*:*)
+    at emit (events.js:*:*)
+    at endReadable/< (_stream_readable.js:*:*)
+    at _tickCallback (node.js:*:*)
+  
+100
+100
+undefined: (null)
+
+undefined: (null)
+
+done

@@ -1,0 +1,27 @@
+[eval]
+[eval]
+42
+42
+undefined: hello ([eval] *:*)
+    at  ([eval]:*:*)
+    at [eval]-wrapper:*:*
+    at Module.prototype._compile (module.js:*:*)
+    at evalScript (node.js:*:*)
+    at startup (node.js:*:*)
+    at node.js:*:*
+
+undefined: hello ([eval] *:*)
+    at  ([eval]:*:*)
+    at [eval]-wrapper:*:*
+    at Module.prototype._compile (module.js:*:*)
+    at evalScript (node.js:*:*)
+    at startup (node.js:*:*)
+    at node.js:*:*
+
+100
+100
+undefined: (null)
+
+undefined: (null)
+
+done
